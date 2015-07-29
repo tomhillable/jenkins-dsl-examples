@@ -1,0 +1,4 @@
+# For master
+- hosts: all
+  roles:
+    - jenkins

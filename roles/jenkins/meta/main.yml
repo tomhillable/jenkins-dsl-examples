@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: GielDeBleser
+  description: Jenkins server - Maven - Githubconnection
+  company: /
+  license: MIT
+  min_ansible_version: 1.4
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+
+  categories:
+  - development
