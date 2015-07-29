@@ -4,6 +4,7 @@ jenkins_jar_location: /opt/jenkins-cli.jar
 jenkins_plugins:
   - git
   - job-dsl
+  - build-flow-plugin
 
 jenkins_owner: jenkins
 jenkins_group: jenkins
