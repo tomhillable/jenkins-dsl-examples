@@ -1,5 +1,5 @@
-freeStyleJob('test2') {
-  description('test2')
+freeStyleJob('test3') {
+  description('test3')
   steps {
     shell("""
 sleep 20
